@@ -1,12 +1,11 @@
-### Olá! Eu sou a Beatriz Nóbrega
+</span>
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
+<div align="center">
+<img src="https://user-images.githubusercontent.com/113392038/197395104-934c09a4-e9c3-4fc5-aafa-7cc510cd6eb5.jpg" width="800px"/>
 
 <div>
   <a href="https://github.com/bibiscode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
 </div>
 
 <div style="display: inline_block"><br>
